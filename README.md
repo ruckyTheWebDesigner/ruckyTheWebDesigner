@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruckyTheWebDesigner
 - 👀 I’m interested in using Technology to solve real time problems.
-- 🌱 I’m currently working with ReactJs, NodeJs, ExpressJs and Firebase
+- 🌱 I’m currently working with React, NextJs, React Native, and AI/Machine Learning
 - 💞️ I’m looking to collaborate on PROJECTS
 - 📫 How to reach me  rukewejoseph17@gmail.com
 
